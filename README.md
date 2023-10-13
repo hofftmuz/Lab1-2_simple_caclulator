@@ -1,2 +1,16 @@
-# Lab1-2_simple_caclulator
- Lab1-2_simple_caclulator
+# lab1-1_calculator
+## lab1-1_calculator
+### lab1-1_calculator
+* lab1-1_calculator
+    *    +lab1-1_calculator
+        *       -lab1-1_calculator
+
+>lab1-1_calculator
+>>lab1-1_calculator
+
+      lab1-1_calculator
+
+<hr/>
+
+_lab1-1_calculator_
+__lab1-1_calculator__
